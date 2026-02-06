@@ -4,14 +4,8 @@
   "name": "UnLtd",
   "colors": {
     "primary": "#fd9a00",
-    "light": "#ffba00",
-    "dark": "#e17100"
-  },
-  "background": {
-    "color": {
-      "light": "#f5f3ff",
-      "dark": "#2f0d68"
-    }
+    "light": "#fd9a00",
+    "dark": "#fd9a00"
   },
   "fonts": {
     "family": "Nunito"
