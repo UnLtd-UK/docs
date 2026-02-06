@@ -12,113 +12,148 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "groups": [
+    "tabs": [
       {
-        "group": "Getting Started",
-        "pages": [
-          "getting-started/introduction",
-          "getting-started/legal-structures",
-          "getting-started/business-models",
-          "getting-started/b-corp",
-          "getting-started/mission-locking"
+        "tab": "Getting Started",
+        "groups": [
+          {
+            "group": "Welcome",
+            "pages": [
+              "welcome/introduction"
+            ]
+          }
         ]
       },
       {
-        "group": "Understanding Your Market",
-        "pages": [
-          "understanding-your-market/target-customers",
-          "understanding-your-market/market-research",
-          "understanding-your-market/competitors",
-          "understanding-your-market/value-proposition",
-          "understanding-your-market/product-market-fit"
+        "tab": "Foundations",
+        "groups": [
+          {
+            "group": "Legal & Structure",
+            "pages": [
+              "legal-structure/legal-structures",
+              "legal-structure/business-models",
+              "legal-structure/b-corp",
+              "legal-structure/mission-locking"
+            ]
+          },
+          {
+            "group": "Understanding Your Market",
+            "pages": [
+              "understanding-your-market/target-customers",
+              "understanding-your-market/market-research",
+              "understanding-your-market/competitors",
+              "understanding-your-market/value-proposition",
+              "understanding-your-market/product-market-fit"
+            ]
+          }
         ]
       },
       {
-        "group": "Product & Service Development",
-        "pages": [
-          "product-service-development/product-development",
-          "product-service-development/pricing",
-          "product-service-development/design-thinking"
+        "tab": "Build & Impact",
+        "groups": [
+          {
+            "group": "Product & Service Development",
+            "pages": [
+              "product-service-development/product-development",
+              "product-service-development/pricing",
+              "product-service-development/design-thinking"
+            ]
+          },
+          {
+            "group": "Social Impact",
+            "pages": [
+              "social-impact/theory-of-change",
+              "social-impact/impact-measurement",
+              "social-impact/frameworks-and-unit-cost-databases"
+            ]
+          }
         ]
       },
       {
-        "group": "Social Impact",
-        "pages": [
-          "social-impact/theory-of-change",
-          "social-impact/impact-measurement",
-          "social-impact/frameworks-and-unit-cost-databases"
+        "tab": "Finance & Funding",
+        "groups": [
+          {
+            "group": "Financial Management",
+            "pages": [
+              "financial-management/tax-vat-bookkeeping",
+              "financial-management/financial-modelling",
+              "financial-management/cash-flow"
+            ]
+          },
+          {
+            "group": "Funding & Investment",
+            "pages": [
+              "funding-investment/grants-and-bid-writing",
+              "funding-investment/social-investment",
+              "funding-investment/investment-readiness",
+              "funding-investment/pitch-decks"
+            ]
+          }
         ]
       },
       {
-        "group": "Financial Management",
-        "pages": [
-          "financial-management/tax-vat-bookkeeping",
-          "financial-management/financial-modelling",
-          "financial-management/cash-flow"
+        "tab": "Sales & Growth",
+        "groups": [
+          {
+            "group": "Sales & Revenue",
+            "pages": [
+              "sales-revenue/sales-frameworks",
+              "sales-revenue/pipeline-templates",
+              "sales-revenue/customer-lifetime-value"
+            ]
+          },
+          {
+            "group": "Marketing & Communications",
+            "pages": [
+              "marketing-communications/strategy",
+              "marketing-communications/pr-and-storytelling",
+              "marketing-communications/campaigning-tools"
+            ]
+          },
+          {
+            "group": "Operations & Growth",
+            "pages": [
+              "operations-growth/kpis-okrs",
+              "operations-growth/change-management",
+              "operations-growth/growth-strategies",
+              "operations-growth/operations",
+              "operations-growth/franchising"
+            ]
+          }
         ]
       },
       {
-        "group": "Funding & Investment",
-        "pages": [
-          "funding-investment/grants-and-bid-writing",
-          "funding-investment/social-investment",
-          "funding-investment/investment-readiness",
-          "funding-investment/pitch-decks"
-        ]
-      },
-      {
-        "group": "Sales & Revenue",
-        "pages": [
-          "sales-revenue/sales-frameworks",
-          "sales-revenue/pipeline-templates",
-          "sales-revenue/customer-lifetime-value"
-        ]
-      },
-      {
-        "group": "Marketing & Communications",
-        "pages": [
-          "marketing-communications/strategy",
-          "marketing-communications/pr-and-storytelling",
-          "marketing-communications/campaigning-tools"
-        ]
-      },
-      {
-        "group": "Leadership & People",
-        "pages": [
-          "leadership-people/leadership-development",
-          "leadership-people/hr",
-          "leadership-people/boards-and-governance",
-          "leadership-people/coaching",
-          "leadership-people/founder-mental-health"
-        ]
-      },
-      {
-        "group": "Operations & Growth",
-        "pages": [
-          "operations-growth/kpis-okrs",
-          "operations-growth/change-management",
-          "operations-growth/growth-strategies",
-          "operations-growth/operations",
-          "operations-growth/franchising"
-        ]
-      },
-      {
-        "group": "Sector Knowledge",
-        "pages": [
-          "sector-knowledge/nhs-public-sector",
-          "sector-knowledge/policy-reports",
-          "sector-knowledge/gdpr",
-          "sector-knowledge/intellectual-property",
-          "sector-knowledge/insurance",
-          "sector-knowledge/exporting"
-        ]
-      },
-      {
-        "group": "Courses & Programmes",
-        "pages": [
-          "courses-programmes/cce-outstanding-leadership",
-          "courses-programmes/lean-for-social-impact",
-          "courses-programmes/access-to-impact-investment"
+        "tab": "Leadership & Learning",
+        "groups": [
+          {
+            "group": "Leadership & People",
+            "pages": [
+              "leadership-people/leadership-development",
+              "leadership-people/hr",
+              "leadership-people/boards-and-governance",
+              "leadership-people/coaching",
+              "leadership-people/founder-mental-health"
+            ]
+          },
+          {
+            "group": "Sector Knowledge",
+            "pages": [
+              "sector-knowledge/nhs-public-sector",
+              "sector-knowledge/policy-reports",
+              "sector-knowledge/gdpr",
+              "sector-knowledge/intellectual-property",
+              "sector-knowledge/insurance",
+              "sector-knowledge/exporting"
+            ]
+          },
+          {
+            "group": "Courses & Programmes",
+            "pages": [
+              "courses-programmes/cce-outstanding-leadership",
+              "courses-programmes/lean-for-social-impact",
+              "courses-programmes/access-to-impact-investment"
+            ]
+          }
         ]
       }
     ]
@@ -128,16 +163,10 @@
     "dark": "/logo/dark.svg"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "UnLtd",
+      "href": "https://unltd.org.uk"
     }
   },
   "contextual": {
