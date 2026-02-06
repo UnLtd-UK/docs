@@ -8,8 +8,10 @@
     "dark": "#e17100"
   },
   "background": {
-    "light": "#f5f3ff",
-    "dark": "#2f0d68"
+    "color": {
+      "light": "#f5f3ff",
+      "dark": "#2f0d68"
+    }
   },
   "fonts": {
     "family": "Nunito"
