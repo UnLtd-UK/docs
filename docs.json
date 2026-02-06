@@ -7,6 +7,12 @@
     "light": "#ffba00",
     "dark": "#e17100"
   },
+  "styling": {
+    "background": {
+      "light": "#f5f3ff",
+      "dark": "#2f0d68"
+    }
+  },
   "fonts": {
     "family": "Nunito"
   },
