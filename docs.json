@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "UnLtd — Social Enterprise Resource Library",
+  "name": "UnLtd — Award Winner Resources",
   "colors": {
     "primary": "#fd9a00",
     "light": "#fd9a00",
@@ -25,145 +25,28 @@
         ]
       },
       {
-        "tab": "Foundations",
-        "groups": [
-          {
-            "group": "Legal & Structure",
-            "pages": [
-              "legal-structure/legal-structures",
-              "legal-structure/business-models",
-              "legal-structure/b-corp",
-              "legal-structure/mission-locking",
-              "legal-structure/links"
-            ]
-          },
-          {
-            "group": "Understanding Your Market",
-            "pages": [
-              "market/target-customers",
-              "market/market-research",
-              "market/competitors",
-              "market/value-proposition",
-              "market/product-market-fit",
-              "market/links"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Build & Impact",
-        "groups": [
-          {
-            "group": "Product & Service Development",
-            "pages": [
-              "product/product-development",
-              "product/pricing",
-              "product/design-thinking",
-              "product/links"
-            ]
-          },
-          {
-            "group": "Social Impact",
-            "pages": [
-              "impact/theory-of-change",
-              "impact/impact-measurement",
-              "impact/frameworks",
-              "impact/links"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Finance & Funding",
+        "tab": "Finance",
         "groups": [
           {
             "group": "Financial Management",
             "pages": [
-              "finance/tax-vat-bookkeeping",
-              "finance/financial-modelling",
-              "finance/cash-flow",
-              "finance/links"
-            ]
-          },
-          {
-            "group": "Funding & Investment",
-            "pages": [
-              "funding/grants-bid-writing",
-              "funding/social-investment",
-              "funding/investment-readiness",
-              "funding/pitch-decks",
-              "funding/links"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Sales & Growth",
-        "groups": [
-          {
-            "group": "Sales & Revenue",
-            "pages": [
-              "sales/sales-frameworks",
-              "sales/pipeline-templates",
-              "sales/customer-lifetime-value",
-              "sales/links"
-            ]
-          },
-          {
-            "group": "Marketing & Communications",
-            "pages": [
-              "marketing/strategy",
-              "marketing/pr-storytelling",
-              "marketing/campaigning-tools",
-              "marketing/links"
-            ]
-          },
-          {
-            "group": "Operations & Growth",
-            "pages": [
-              "operations/kpis-okrs",
-              "operations/change-management",
-              "operations/growth-strategies",
-              "operations/operations",
-              "operations/franchising",
-              "operations/links"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Leadership & Learning",
-        "groups": [
-          {
-            "group": "Leadership & People",
-            "pages": [
-              "leadership/leadership-development",
-              "leadership/hr",
-              "leadership/boards-governance",
-              "leadership/coaching",
-              "leadership/founder-mental-health",
-              "leadership/links"
-            ]
-          },
-          {
-            "group": "Sector Knowledge",
-            "pages": [
-              "sector/nhs-public-sector",
-              "sector/policy-reports",
-              "sector/gdpr",
-              "sector/ip",
-              "sector/insurance",
-              "sector/exporting",
-              "sector/links"
-            ]
-          },
-          {
-            "group": "Courses & Programmes",
-            "pages": [
-              "courses/outstanding-leadership",
-              "courses/lean-social-impact",
-              "courses/access-impact-investment",
-              "courses/links"
+              "finance/financial management/2024-budget-updates",
+              "finance/financial management/a-guide-to-vat",
+              "finance/financial management/bookkeeping-accounts-support-tips-2324",
+              "finance/financial management/bookkeeping-and-accounts-support-tips",
+              "finance/financial management/cash-flow-presentation",
+              "finance/financial management/charging-and-accounting-for-vat",
+              "finance/financial management/choosing-and-using-an-accountant",
+              "finance/financial management/government-support-for-research-and-development-in-the-uk",
+              "finance/financial management/guide-to-tax-for-a-new-business",
+              "finance/financial management/invoicing-101",
+              "finance/financial management/managers-financial-checklist",
+              "finance/financial management/opsbox-thrive-audit-questionnaire",
+              "finance/financial management/registering-for-vat",
+              "finance/financial management/unltd-finance-template",
+              "finance/financial management/unltd-finance-with-adrian-ashton",
+              "finance/financial management/unltd-financial-management-checklist-draft",
+              "finance/financial management/unltd-financial-management-checklist-final"
             ]
           }
         ]
@@ -177,7 +60,7 @@
   "navbar": {
     "primary": {
       "type": "button",
-      "label": "UnLtd",
+      "label": "unltd.org.uk",
       "href": "https://unltd.org.uk"
     }
   },
