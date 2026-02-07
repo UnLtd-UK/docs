@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "UnLtd — Award Winner Resources",
   "colors": {
-    "primary": "#fd9a00",
-    "light": "#fd9a00",
-    "dark": "#fd9a00"
+    "primary": "#ffba00",
+    "light": "#ffba00",
+    "dark": "#ffba00"
   },
   "fonts": {
     "family": "Nunito"
@@ -58,11 +58,14 @@
     "dark": "/logo/dark.svg"
   },
   "navbar": {
-    "primary": {
-      "type": "button",
-      "label": "unltd.org.uk",
-      "href": "https://unltd.org.uk"
-    }
+    "links": [
+      {
+        "type": "button",
+        "label": "unltd.org.uk",
+        "href": "https://unltd.org.uk",
+        "icon": "globe"
+      }
+    ]
   },
   "styling": {
     "breadcrumbs": true
