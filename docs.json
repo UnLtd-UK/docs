@@ -66,6 +66,107 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Governance & Legal",
+        "groups": [
+          {
+            "group": "Board Governance",
+            "pages": [
+              "governance-legal/board-governance/01-governance-fundamentals",
+              "governance-legal/board-governance/02-directors-duties-and-responsibilities",
+              "governance-legal/board-governance/03-the-role-of-non-executive-directors",
+              "governance-legal/board-governance/04-effective-board-meetings",
+              "governance-legal/board-governance/05-board-recruitment-strategy",
+              "governance-legal/board-governance/06-appointing-board-members",
+              "governance-legal/board-governance/07-board-member-role-descriptions",
+              "governance-legal/board-governance/08-board-policies-and-templates"
+            ]
+          },
+          {
+            "group": "Legal Structures",
+            "pages": [
+              "governance-legal/legal-structures/01-choosing-a-legal-structure",
+              "governance-legal/legal-structures/02-getting-pro-bono-legal-advice"
+            ]
+          },
+          {
+            "group": "Compliance & Regulation",
+            "pages": [
+              "governance-legal/compliance-regulation/01-data-protection-and-gdpr",
+              "governance-legal/compliance-regulation/02-intellectual-property-rights",
+              "governance-legal/compliance-regulation/03-business-insurance",
+              "governance-legal/compliance-regulation/04-export-documentation"
+            ]
+          },
+          {
+            "group": "Policy & Government",
+            "pages": [
+              "governance-legal/policy-government/01-government-support-for-exporters",
+              "governance-legal/policy-government/02-government-support-for-research-and-development"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Leadership & People",
+        "groups": [
+          {
+            "group": "Leadership Development",
+            "pages": [
+              "leadership-and-people/leadership-development/01-the-six-leadership-styles",
+              "leadership-and-people/leadership-development/02-developing-your-leadership-style"
+            ]
+          },
+          {
+            "group": "Team & HR Management",
+            "pages": [
+              "leadership-and-people/team-and-hr-management/01-hiring-your-first-employee",
+              "leadership-and-people/team-and-hr-management/02-hr-policies-and-compliance",
+              "leadership-and-people/team-and-hr-management/03-building-your-team",
+              "leadership-and-people/team-and-hr-management/04-leadership-styles-in-practice",
+              "leadership-and-people/team-and-hr-management/05-organisational-values-and-culture",
+              "leadership-and-people/team-and-hr-management/06-motivating-yourself-and-others",
+              "leadership-and-people/team-and-hr-management/07-developing-as-a-leader",
+              "leadership-and-people/team-and-hr-management/08-planning-your-endgame"
+            ]
+          },
+          {
+            "group": "Coaching & Mentoring",
+            "pages": [
+              "leadership-and-people/coaching-and-mentoring/01-effective-mentoring",
+              "leadership-and-people/coaching-and-mentoring/02-coaching-through-questioning",
+              "leadership-and-people/coaching-and-mentoring/03-creating-a-thinking-environment",
+              "leadership-and-people/coaching-and-mentoring/04-transforming-your-meetings"
+            ]
+          },
+          {
+            "group": "Wellbeing",
+            "pages": [
+              "leadership-and-people/wellbeing/01-mental-health-for-founders",
+              "leadership-and-people/wellbeing/02-understanding-neurodiversity",
+              "leadership-and-people/wellbeing/03-returning-to-work-after-disruption"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Design & Innovation",
+        "groups": [
+          {
+            "group": "Design Tools",
+            "pages": [
+              "design-and-innovation/design-tools/01-introduction-to-design-thinking",
+              "design-and-innovation/design-tools/02-running-a-design-workshop",
+              "design-and-innovation/design-tools/03-discovering-and-understanding-people",
+              "design-and-innovation/design-tools/04-ideation-and-prototyping",
+              "design-and-innovation/design-tools/05-values-and-mission-design",
+              "design-and-innovation/design-tools/06-measuring-social-impact",
+              "design-and-innovation/design-tools/07-designing-your-business-model",
+              "design-and-innovation/design-tools/08-collaborative-design-in-practice"
+            ]
+          }
+        ]
       }
     ]
   },
