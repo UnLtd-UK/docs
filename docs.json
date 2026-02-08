@@ -57,6 +57,13 @@
               "finance/financial modeling/09-financial-modelling-handbook-exercises",
               "finance/financial modeling/10-next-steps-and-resources"
             ]
+          },
+          {
+            "group": "Pricing",
+            "pages": [
+              "finance/pricing/01-costing-and-pricing-fundamentals",
+              "finance/pricing/02-choosing-a-pricing-strategy"
+            ]
           }
         ]
       }
