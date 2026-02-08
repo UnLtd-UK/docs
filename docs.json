@@ -42,6 +42,21 @@
               "finance/financial management/10-budget-updates-2024",
               "finance/financial management/11-financial-health-check"
             ]
+          },
+          {
+            "group": "Financial Modeling",
+            "pages": [
+              "finance/financial modeling/01-introduction-to-financial-modelling",
+              "finance/financial modeling/02-accounting-fundamentals",
+              "finance/financial modeling/03-cost-classification-and-allocation",
+              "finance/financial modeling/04-understanding-financial-statements",
+              "finance/financial modeling/05-building-your-financial-model",
+              "finance/financial modeling/06-forecasting-and-scenarios",
+              "finance/financial modeling/07-business-valuation-basics",
+              "finance/financial modeling/08-financial-model-templates",
+              "finance/financial modeling/09-financial-modelling-handbook-exercises",
+              "finance/financial modeling/10-next-steps-and-resources"
+            ]
           }
         ]
       }

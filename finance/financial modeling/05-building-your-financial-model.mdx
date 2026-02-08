@@ -1,0 +1,111 @@
+---
+title: "Building Your Financial Model"
+sidebarTitle: "Building Your Model"
+description: "A step-by-step guide to constructing a financial model — from structuring your workbook to linking statements and checking for errors."
+---
+
+## Model Structure: Inputs, Calculations, Outputs
+
+A well-structured financial model separates three layers:
+
+1. **Inputs** — the assumptions and data you control: growth rates, pricing, headcount, cost escalation rates, grant amounts, and timing. These should be easy to find and change.
+2. **Calculations** — the formulas that transform inputs into forecasts: revenue schedules, cost builds, working capital movements, depreciation schedules, and debt repayment tables.
+3. **Outputs** — the forecast financial statements and summary dashboards: income statement, balance sheet, cash flow statement, key ratios, and charts.
+
+This separation matters because it makes the model transparent, auditable, and flexible. When a funder asks "what happens if revenue grows at 3% instead of 5%?", you change one input cell and every output updates automatically.
+
+## Setting Up Your Workbook
+
+Before entering any numbers, plan your workbook structure. Use a consistent approach to naming, colour coding, and sheet ordering.
+
+**Colour conventions** (widely used in financial modelling):
+
+| Colour | Meaning |
+| --- | --- |
+| Blue font | Hard-coded inputs (numbers you type in) |
+| Black font | Formulas (calculated from other cells) |
+| Green font | Links to other sheets |
+| Yellow shading | Input cells that the user should change |
+
+**Sheet naming:** Use clear, descriptive names. Avoid "Sheet1" or abbreviations that only you understand.
+
+### A Simple Model (3-5 Sheets)
+
+If you are an early-stage social enterprise with a single revenue stream, a simple model is appropriate. The TA SW Example Workbook provides a good template with five sheets:
+
+1. **Instructions** — how to use the model
+2. **Income** — revenue forecast by product or service line, broken down monthly
+3. **Expenditure** — cost forecast by category (salaries, rent, materials, etc.)
+4. **Cash Flow** — monthly cash position showing income minus expenditure, opening and closing balances
+5. **Milestones** — key dates and deliverables linked to the financial plan
+
+This structure works well for grant applications, early board reporting, and basic scenario testing.
+
+### A Complex Model (10+ Sheets)
+
+If your organisation has multiple revenue streams, different business lines, or is preparing for social investment, you may need a more detailed model. The UnLtd Financial Model V16 demonstrates this with 39 sheets covering:
+
+- **Key Inputs** — a single sheet where all major assumptions are entered
+- **Revenue sheets** — separate schedules for product sales, UK and overseas sales, and sales assumptions
+- **Cost sheets** — variable costs, staff costs, central costs, and capital expenditure each on their own sheet
+- **Working capital** — accounts receivable, accounts payable, and inventory calculations
+- **Funding** — grant income, existing debt, new debt financing, and equity financing
+- **Output sheets** — summary P&L, balance sheet, cash flow, sensitivities, and key ratios
+- **Check sheet** — automated error detection
+
+The principle is the same: inputs feed calculations, which feed outputs. The additional sheets simply provide more granularity.
+
+## Revenue Assumptions
+
+Your revenue forecast is the most important — and most uncertain — part of the model. Build it from specific, testable assumptions rather than top-down guesses.
+
+- **Unit pricing** — what do you charge per unit, session, licence, or contract? If pricing varies, create a separate assumption for each price point.
+- **Volume** — how many units will you sell each month? Base this on evidence: existing orders, pipeline, market research, or comparable organisations.
+- **Grant timing** — when will grant income be received? Model each grant as a separate line with its own start date, duration, and payment schedule.
+- **Growth rates** — if you expect volume to increase over time, state the rate explicitly. A 5% monthly growth rate compounds to 80% annual growth — make sure that is realistic.
+
+**Revenue = Price × Volume**, calculated for each product or service line, for each month.
+
+## Expenditure Assumptions
+
+Build your cost forecast from the bottom up, using the cost classifications from the previous page:
+
+- **Salary builds** — list each role with its salary, start date, and any planned pay increases. Include employer National Insurance and pension contributions. This is typically the largest cost for a social enterprise.
+- **Rent and premises** — enter the monthly cost and any planned escalation (for example, rent reviews every three years).
+- **Variable costs** — link these to volume drivers from your revenue forecast. If each unit sold requires £5 of materials, the formula is straightforward.
+- **One-off costs** — equipment purchases, launch costs, or fit-out expenses. Place these in the correct month.
+
+Avoid the temptation to use a single "percentage of revenue" for all costs. While the SGA-to-sales ratio method (for example, overheads at 20% of revenue) is useful for quick estimates, a detailed bottom-up build gives you much better control and credibility with funders.
+
+## Linking Your Statements
+
+Once you have revenue and cost schedules, link them into the three financial statements:
+
+1. **Income statement** — sum revenue lines, deduct cost of sales for gross profit, deduct overheads for operating profit, deduct interest and tax for net profit.
+2. **Balance sheet** — populate non-current assets from your CAPEX schedule (net of depreciation), current assets from working capital calculations, liabilities from your debt and payables schedules, and equity from retained earnings.
+3. **Cash flow statement** — start with net profit, add back depreciation, adjust for working capital changes, deduct capital expenditure, and add or deduct financing cash flows.
+
+The closing cash balance on the cash flow statement must equal the cash figure on the balance sheet. This is your primary check that the model is internally consistent.
+
+## Error Checking and Balancing
+
+Build error checks into your model from the start:
+
+- **Balance sheet check** — does Assets = Liabilities + Equity? Create a row that calculates the difference; it should always be zero.
+- **Cash flow reconciliation** — does the net change in cash equal the difference between opening and closing cash on the balance sheet?
+- **Circular reference check** — if your model includes interest calculations that depend on the debt balance, which depends on cash flow, which depends on interest, you have a circular reference. Use Excel's iterative calculation setting or break the circularity with a manual toggle.
+- **Negative cash balance** — flag any month where the cash balance goes negative. This indicates a funding gap that needs to be addressed.
+- **Sense checks** — are margins within a reasonable range? Does headcount match the salary build? Do growth rates compound to plausible annual figures?
+
+Many experienced modellers create a dedicated "Check" sheet that summarises all error flags in one place, with conditional formatting that turns green when everything balances and red when something is wrong.
+
+## Milestone Tracking
+
+A financial model is more useful when connected to operational milestones. The TA SW Example Workbook includes a milestones sheet that maps key events — partnership agreements, product launches, hiring dates — against the financial timeline.
+
+This serves two purposes:
+
+1. **Credibility** — funders and investors can see that your revenue assumptions are tied to specific actions (for example, revenue from a new product starts only after the launch date).
+2. **Monitoring** — as you deliver against the plan, you can track whether milestones are being met on time and adjust the financial forecast accordingly.
+
+Consider adding a milestones row or sheet to your own model, linking key dates to the assumptions that depend on them.
