@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "UnLtd — Award Winner Resources",
   "colors": {
-    "primary": "#ffba00",
-    "light": "#ffba00",
-    "dark": "#ffba00"
+    "primary": "#a06d00",
+    "light": "#a06d00",
+    "dark": "#b87800"
   },
   "fonts": {
     "family": "Nunito"
@@ -30,23 +30,17 @@
           {
             "group": "Financial Management",
             "pages": [
-              "finance/financial management/2024-budget-updates",
-              "finance/financial management/a-guide-to-vat",
-              "finance/financial management/bookkeeping-accounts-support-tips-2324",
-              "finance/financial management/bookkeeping-and-accounts-support-tips",
-              "finance/financial management/cash-flow-presentation",
-              "finance/financial management/charging-and-accounting-for-vat",
-              "finance/financial management/choosing-and-using-an-accountant",
-              "finance/financial management/government-support-for-research-and-development-in-the-uk",
-              "finance/financial management/guide-to-tax-for-a-new-business",
-              "finance/financial management/invoicing-101",
-              "finance/financial management/managers-financial-checklist",
-              "finance/financial management/opsbox-thrive-audit-questionnaire",
-              "finance/financial management/registering-for-vat",
-              "finance/financial management/unltd-finance-template",
-              "finance/financial management/unltd-finance-with-adrian-ashton",
-              "finance/financial management/unltd-financial-management-checklist-draft",
-              "finance/financial management/unltd-financial-management-checklist-final"
+              "finance/financial management/01-getting-started",
+              "finance/financial management/02-setting-up-your-books",
+              "finance/financial management/03-tax-essentials",
+              "finance/financial management/04-vat-essentials",
+              "finance/financial management/05-managing-vat-in-practice",
+              "finance/financial management/06-invoicing-and-getting-paid",
+              "finance/financial management/07-cash-flow-and-budgeting",
+              "finance/financial management/08-choosing-an-accountant",
+              "finance/financial management/09-funding-and-tax-relief",
+              "finance/financial management/10-budget-updates-2024",
+              "finance/financial management/11-financial-health-check"
             ]
           }
         ]
