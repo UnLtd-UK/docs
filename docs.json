@@ -30,32 +30,32 @@
           {
             "group": "Financial Management",
             "pages": [
-              "finance/financial management/01-getting-started",
-              "finance/financial management/02-setting-up-your-books",
-              "finance/financial management/03-tax-essentials",
-              "finance/financial management/04-vat-essentials",
-              "finance/financial management/05-managing-vat-in-practice",
-              "finance/financial management/06-invoicing-and-getting-paid",
-              "finance/financial management/07-cash-flow-and-budgeting",
-              "finance/financial management/08-choosing-an-accountant",
-              "finance/financial management/09-funding-and-tax-relief",
-              "finance/financial management/10-budget-updates-2024",
-              "finance/financial management/11-financial-health-check"
+              "finance/financial-management/01-getting-started",
+              "finance/financial-management/02-setting-up-your-books",
+              "finance/financial-management/03-tax-essentials",
+              "finance/financial-management/04-vat-essentials",
+              "finance/financial-management/05-managing-vat-in-practice",
+              "finance/financial-management/06-invoicing-and-getting-paid",
+              "finance/financial-management/07-cash-flow-and-budgeting",
+              "finance/financial-management/08-choosing-an-accountant",
+              "finance/financial-management/09-funding-and-tax-relief",
+              "finance/financial-management/10-budget-updates-2024",
+              "finance/financial-management/11-financial-health-check"
             ]
           },
           {
             "group": "Financial Modeling",
             "pages": [
-              "finance/financial modeling/01-introduction-to-financial-modelling",
-              "finance/financial modeling/02-accounting-fundamentals",
-              "finance/financial modeling/03-cost-classification-and-allocation",
-              "finance/financial modeling/04-understanding-financial-statements",
-              "finance/financial modeling/05-building-your-financial-model",
-              "finance/financial modeling/06-forecasting-and-scenarios",
-              "finance/financial modeling/07-business-valuation-basics",
-              "finance/financial modeling/08-financial-model-templates",
-              "finance/financial modeling/09-financial-modelling-handbook-exercises",
-              "finance/financial modeling/10-next-steps-and-resources"
+              "finance/financial-modeling/01-introduction-to-financial-modelling",
+              "finance/financial-modeling/02-accounting-fundamentals",
+              "finance/financial-modeling/03-cost-classification-and-allocation",
+              "finance/financial-modeling/04-understanding-financial-statements",
+              "finance/financial-modeling/05-building-your-financial-model",
+              "finance/financial-modeling/06-forecasting-and-scenarios",
+              "finance/financial-modeling/07-business-valuation-basics",
+              "finance/financial-modeling/08-financial-model-templates",
+              "finance/financial-modeling/09-financial-modelling-handbook-exercises",
+              "finance/financial-modeling/10-next-steps-and-resources"
             ]
           },
           {
@@ -164,6 +164,72 @@
               "design-and-innovation/design-tools/06-measuring-social-impact",
               "design-and-innovation/design-tools/07-designing-your-business-model",
               "design-and-innovation/design-tools/08-collaborative-design-in-practice"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Funding & Investment",
+        "groups": [
+          {
+            "group": "Investment",
+            "pages": [
+              "funding-investment/investment/01-understanding-social-investment",
+              "funding-investment/investment/02-investment-readiness",
+              "funding-investment/investment/03-preparing-for-due-diligence",
+              "funding-investment/investment/04-pre-investment-prep",
+              "funding-investment/investment/05-building-your-pitch-deck",
+              "funding-investment/investment/06-theory-of-change",
+              "funding-investment/investment/07-financial-planning-tools",
+              "funding-investment/investment/08-finding-investors"
+            ]
+          },
+          {
+            "group": "Grants",
+            "pages": [
+              "funding-investment/grants/01-grant-funding-resources"
+            ]
+          },
+          {
+            "group": "Bid Writing",
+            "pages": [
+              "funding-investment/bid-writing/01-bid-and-grant-writing-guide"
+            ]
+          },
+          {
+            "group": "Pathways to Growth",
+            "pages": [
+              "funding-investment/pathways-to-growth-investment-readiness-resources/01-understanding-social-investment",
+              "funding-investment/pathways-to-growth-investment-readiness-resources/02-investment-readiness-and-due-diligence",
+              "funding-investment/pathways-to-growth-investment-readiness-resources/03-building-your-pitch",
+              "funding-investment/pathways-to-growth-investment-readiness-resources/04-theory-of-change",
+              "funding-investment/pathways-to-growth-investment-readiness-resources/05-financial-planning-tools"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Operations",
+        "groups": [
+          {
+            "group": "KPIs & OKRs",
+            "pages": [
+              "operations/kpis-and-okrs/01-understanding-kpis",
+              "operations/kpis-and-okrs/02-developing-and-implementing-kpis",
+              "operations/kpis-and-okrs/03-okrs-and-goal-setting"
+            ]
+          },
+          {
+            "group": "Project Management",
+            "pages": [
+              "operations/project-management/01-project-highlight-reports",
+              "operations/project-management/02-ventures-diagnostic-tool"
+            ]
+          },
+          {
+            "group": "EDI",
+            "pages": [
+              "operations/edi/01-edi-toolkit-overview"
             ]
           }
         ]
