@@ -209,6 +209,42 @@
         ]
       },
       {
+        "tab": "Sales & Marketing",
+        "groups": [
+          {
+            "group": "Sales",
+            "pages": [
+              "sales-and-marketing/sales/01-defining-your-offer-and-market",
+              "sales-and-marketing/sales/02-building-your-sales-pipeline",
+              "sales-and-marketing/sales/03-sales-conversations-and-closing",
+              "sales-and-marketing/sales/04-qualifying-leads-and-managing-clients"
+            ]
+          },
+          {
+            "group": "Marketing & Communications",
+            "pages": [
+              "sales-and-marketing/marketing-and-communications/01-campaigning-and-outreach",
+              "sales-and-marketing/marketing-and-communications/02-public-relations-and-press-releases",
+              "sales-and-marketing/marketing-and-communications/03-working-with-a-graphic-designer",
+              "sales-and-marketing/marketing-and-communications/04-inclusive-communication"
+            ]
+          },
+          {
+            "group": "Pitching & Presentations",
+            "pages": [
+              "sales-and-marketing/pitching-and-presentations/01-storytelling-for-social-enterprise",
+              "sales-and-marketing/pitching-and-presentations/02-speech-writing-and-pitching"
+            ]
+          },
+          {
+            "group": "CRM",
+            "pages": [
+              "sales-and-marketing/crm/01-customer-relationship-management"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Operations",
         "groups": [
           {
@@ -230,6 +266,28 @@
             "group": "EDI",
             "pages": [
               "operations/edi/01-edi-toolkit-overview"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Sector Knowledge & Research",
+        "groups": [
+          {
+            "group": "NHS & Public Sector",
+            "pages": [
+              "sector-knowledge-and-research/nhs-and-public-sector/01-understanding-public-sector-commissioning",
+              "sector-knowledge-and-research/nhs-and-public-sector/02-opportunities-for-social-entrepreneurs",
+              "sector-knowledge-and-research/nhs-and-public-sector/03-commissioning-glossary",
+              "sector-knowledge-and-research/nhs-and-public-sector/04-guide-to-public-sector-spin-outs"
+            ]
+          },
+          {
+            "group": "Research Reports",
+            "pages": [
+              "sector-knowledge-and-research/research-reports/01-ageing-science-technology-and-healthy-living",
+              "sector-knowledge-and-research/research-reports/02-social-mobility-in-london",
+              "sector-knowledge-and-research/research-reports/03-the-economics-of-longevity"
             ]
           }
         ]
