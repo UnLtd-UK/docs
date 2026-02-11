@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "palm",
   "name": "UnLtd — Award Winner Resources",
   "colors": {
     "primary": "#a06d00",
@@ -288,6 +288,54 @@
               "sector-knowledge-and-research/research-reports/01-ageing-science-technology-and-healthy-living",
               "sector-knowledge-and-research/research-reports/02-social-mobility-in-london",
               "sector-knowledge-and-research/research-reports/03-the-economics-of-longevity"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Social Impact & Mission",
+        "groups": [
+          {
+            "group": "Social Mission",
+            "pages": [
+              "social-impact-and-mission/social-mission/01-understanding-social-mission-locks",
+              "social-impact-and-mission/social-mission/02-creating-a-mission-lock"
+            ]
+          },
+          {
+            "group": "B Corp",
+            "pages": [
+              "social-impact-and-mission/b-corp/01-what-is-b-corp",
+              "social-impact-and-mission/b-corp/02-b-impact-assessment",
+              "social-impact-and-mission/b-corp/03-preparing-for-certification",
+              "social-impact-and-mission/b-corp/04-legal-requirements",
+              "social-impact-and-mission/b-corp/05-verification-and-final-steps"
+            ]
+          },
+          {
+            "group": "Social Innovation",
+            "pages": [
+              "social-impact-and-mission/social-innovation/01-social-enterprise-and-innovation",
+              "social-impact-and-mission/social-innovation/02-purpose-driven-business"
+            ]
+          },
+          {
+            "group": "Impact Measurement & Tools",
+            "pages": [
+              "social-impact-and-mission/impact-measurement-and-tools/01-what-is-social-impact",
+              "social-impact-and-mission/impact-measurement-and-tools/02-theory-of-change",
+              "social-impact-and-mission/impact-measurement-and-tools/03-designing-your-impact-framework",
+              "social-impact-and-mission/impact-measurement-and-tools/04-choosing-indicators-and-kpis",
+              "social-impact-and-mission/impact-measurement-and-tools/05-data-collection-and-surveys",
+              "social-impact-and-mission/impact-measurement-and-tools/06-cost-benefit-analysis",
+              "social-impact-and-mission/impact-measurement-and-tools/07-participatory-evaluation",
+              "social-impact-and-mission/impact-measurement-and-tools/08-impact-reporting-and-resources"
+            ]
+          },
+          {
+            "group": "CVA Assessments",
+            "pages": [
+              "social-impact-and-mission/cva-assessments/01-critical-venture-analysis"
             ]
           }
         ]
