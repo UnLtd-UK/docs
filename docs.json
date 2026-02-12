@@ -340,6 +340,23 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Needs Review",
+        "groups": [
+          {
+            "group": "General",
+            "pages": [
+              "needs-review/general/01-understanding-social-enterprise",
+              "needs-review/general/02-business-support-and-mentoring",
+              "needs-review/general/03-assessing-social-ventures",
+              "needs-review/general/04-trading-via-amazon",
+              "needs-review/general/05-collaborative-place-based-funding",
+              "needs-review/general/06-place-based-funding-case-studies",
+              "needs-review/general/07-social-impact-bonds-and-resources"
+            ]
+          }
+        ]
       }
     ]
   },
