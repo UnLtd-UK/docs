@@ -354,6 +354,135 @@
         ]
       },
       {
+        "tab": "Spark",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "spark/introduction"
+            ]
+          },
+          {
+            "group": "Leading Well",
+            "pages": [
+              "spark/leading-well/wellbeing",
+              "spark/leading-well/connecting-partners-peers",
+              "spark/leading-well/managing-people-organisations",
+              "spark/leading-well/strategic-development-coaching"
+            ]
+          },
+          {
+            "group": "Measuring Social Impact",
+            "pages": [
+              "spark/measuring-social-impact/overview",
+              "spark/measuring-social-impact/plan",
+              "spark/measuring-social-impact/do",
+              "spark/measuring-social-impact/assess",
+              "spark/measuring-social-impact/review"
+            ]
+          },
+          {
+            "group": "Your Impact",
+            "pages": [
+              "spark/your-impact/design-thinking",
+              "spark/your-impact/inclusive-practice"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Mettle",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "mettle/introduction"
+            ]
+          },
+          {
+            "group": "Governance, Compliance & Legal",
+            "pages": [
+              "mettle/governance-compliance-legal/data-protection",
+              "mettle/governance-compliance-legal/insolvency",
+              "mettle/governance-compliance-legal/legal-structures",
+              "mettle/governance-compliance-legal/safeguarding"
+            ]
+          },
+          {
+            "group": "Operational Management & HR",
+            "pages": [
+              "mettle/operational-management-hr/overview",
+              "mettle/operational-management-hr/recruitment",
+              "mettle/operational-management-hr/selection",
+              "mettle/operational-management-hr/induction",
+              "mettle/operational-management-hr/probationary-periods",
+              "mettle/operational-management-hr/agile-appraisals",
+              "mettle/operational-management-hr/wellbeing-at-work"
+            ]
+          },
+          {
+            "group": "Financial & Business Planning",
+            "pages": [
+              "mettle/financial-business-planning/overview",
+              "mettle/financial-business-planning/business-planning",
+              "mettle/financial-business-planning/financial-planning",
+              "mettle/financial-business-planning/pricing",
+              "mettle/financial-business-planning/vat"
+            ]
+          },
+          {
+            "group": "Product Development",
+            "pages": [
+              "mettle/product-development/overview",
+              "mettle/product-development/market-research",
+              "mettle/product-development/target-market",
+              "mettle/product-development/target-customer",
+              "mettle/product-development/competitor-analysis",
+              "mettle/product-development/value-proposition"
+            ]
+          },
+          {
+            "group": "Securing Grants & Investment",
+            "pages": [
+              "mettle/securing-grants-investment"
+            ]
+          },
+          {
+            "group": "Routes to Market",
+            "pages": [
+              "mettle/routes-to-market/overview",
+              "mettle/routes-to-market/ecommerce",
+              "mettle/routes-to-market/selling-social",
+              "mettle/routes-to-market/selling-social-training-videos"
+            ]
+          },
+          {
+            "group": "Sales & Marketing",
+            "pages": [
+              "mettle/sales-and-marketing/marketing-strategy",
+              "mettle/sales-and-marketing/branding",
+              "mettle/sales-and-marketing/digital-marketing",
+              "mettle/sales-and-marketing/social-media",
+              "mettle/sales-and-marketing/customer-journey"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Pre-Application",
+        "groups": [
+          {
+            "group": "Pre-Application Resources",
+            "pages": [
+              "pre-application/toolkit",
+              "pre-application/info-sessions",
+              "pre-application/info-session-videos",
+              "pre-application/financial-guide-videos"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Needs Review",
         "groups": [
           {
